@@ -16,7 +16,7 @@ Functionality of the site visitor:
 
 Client functionality:
 > 1. Adding product(s) to the cart;
-> 2. Editing the bucket;
+> 2. Editing the basket;
 > 3. Creating an order;
 > 4. View your orders.
 
