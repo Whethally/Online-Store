@@ -2,13 +2,13 @@
 **General description of the project**
 All users of the system are divided into three groups:
 > 1. Administrators;
-2. Site Visitor;
-3. Client.
+> 2. Site Visitor;
+> 3. Client.
 
 Administrator functionality:
 > 1. Adding, deleting, editing product data;
-2. Adding, deleting product categories;
-3. View all orders and change their statuses.
+> 2. Adding, deleting product categories;
+> 3. View all orders and change their statuses.
 
 Functionality of the site visitor:
 > 1. Viewing products and site categories;
@@ -16,9 +16,9 @@ Functionality of the site visitor:
 
 Client functionality:
 > 1. Adding product(s) to the cart;
-2. Editing the bucket;
-3. Creating an order;
-4. View your orders.
+> 2. Editing the bucket;
+> 3. Creating an order;
+> 4. View your orders.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
