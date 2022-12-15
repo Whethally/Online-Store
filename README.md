@@ -1,3 +1,10 @@
+# **How to run laravel project?**
+```composer update```
+```add .env``` [(LINK)](https://raw.githubusercontent.com/platformsh-templates/laravel/master/.env.example)
+```php artisan key:generate```
+```php artisan migrate```
+```php artisan serve```
+
 # **Description of the project and tasks**
 **General description of the project**
 All users of the system are divided into three groups:
