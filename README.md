@@ -1,8 +1,14 @@
 # **How to run laravel project?**
 ```composer update```
-```rename .env.example to .env```
+
+```rename .env.example .env``` (for Windows)
+
+```mv .env.example .env``` (for Mac)
+
 ```php artisan key:generate```
+
 ```php artisan migrate```
+
 ```php artisan serve```
 
 # **Description of the project and tasks**
